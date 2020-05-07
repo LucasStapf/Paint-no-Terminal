@@ -1,0 +1,8 @@
+#ifndef CONSTANTS_H_INCLUDED
+#define CONSTANTS_H_INCLUDED
+
+#define SUCCESS_PGM  0
+#define ERROR_PGM  -1
+
+
+#endif // CONSTANTS_H_INCLUDED
